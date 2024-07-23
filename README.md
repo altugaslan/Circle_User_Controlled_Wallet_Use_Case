@@ -2,15 +2,18 @@
 Kullanıcı kontrollü cüzdanlar, kripto paralarınızı saklamak için kullanılan yazılımlardır. Aslında para saklamak tabiri, isminde *cüzdan* olduğu için mantıklı gözükse de paranın kendisini değil **özel anahtarları** saklar demek daha doğru.
 
 Önemli avantajları
+
 1.Güvenlik
 2.Kontrol
 3.Gizlilik
 
 Kripto para ekosisteminde yaşanan sorunlara baktığımızda iki başlıkta özetleyebiliriz. Bunlar:
+
 1.	Kullanıcı Deneyimi Sorunları
   1.	Karmaşıklık
   2.	Kullanıcı arayüzünün kullanıcı dostu olmaması
   3.	Bazı işlemleri desteklememesi
+     
 2.	Güvenlik sorunları
   1.	Siber Saldırılar
   2.	Kullanıcı hataları ve bilgi eksiklikleri
